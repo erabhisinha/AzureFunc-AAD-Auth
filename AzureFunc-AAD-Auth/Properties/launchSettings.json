@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunc_AAD_Auth": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7285",
+      "launchBrowser": false
+    }
+  }
+}
